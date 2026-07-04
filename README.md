@@ -75,8 +75,7 @@ AI-powered GitHub PR review platform — webhook workflows with vector embedding
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaslyf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaslyf&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaslyf&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
 
 <br/><br/>
 
