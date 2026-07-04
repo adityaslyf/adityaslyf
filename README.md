@@ -46,7 +46,7 @@ const aditya = {
 <tr>
 <td width="50%" valign="top">
 
-### [RedCircle](https://github.com/adityaslyf/RedCircle)
+### [RedCircle](https://github.com/Redcircle-lol/Redcircle_Web)
 Tokenizes Reddit posts with creator–curator workflows and gamified engagement. Reddit OAuth 2.0, role-based access, real-time metrics.
 
 `React` `TypeScript` `Node.js` `PostgreSQL`
